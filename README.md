@@ -1,4 +1,6 @@
+[Coursera 4X32KUBFZ3VD.pdf](https://github.com/user-attachments/files/18875911/Coursera.4X32KUBFZ3VD.pdf)
 # Web-Application-Security-Testing
+
 ## Objective
 
 An Introduction and overview of what OWASP ZAP is and how it is important for web security professionals.  
